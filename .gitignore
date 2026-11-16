@@ -4,3 +4,4 @@ __pycache__/
 .ipynb_checkpoints/
 mlflow.db
 mlartifacts/
+WA_Fn-UseC_-Telco-Customer-Churn.csv
